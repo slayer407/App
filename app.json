@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "LUCE-Application",
+    "slug": "LUCE-Application",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ShowMeHow.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/ShowMeHow.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ShowMeHow.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/ShowMeHow.png"
+    }
+  }
+}
