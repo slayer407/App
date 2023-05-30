@@ -1,4 +1,4 @@
-# Sample Snack app
+[# Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
@@ -10,4 +10,4 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
-Link to Snack is here https://snack.expo.dev/@krothrax/moshowme-resource-library
+Link to Snack is here https://snack.expo.dev/@krothrax/moshowme-resource-library](https://snack.expo.dev/@obad6622/moshowme-resource-library)
